@@ -1,0 +1,9 @@
+Fri, 18 Mar 2022 12:14:00 baseInfo.py[line:26] INFO ========登录======
+Fri, 18 Mar 2022 12:14:04 baseInfo.py[line:34] INFO 输入的用户名为：admin
+Fri, 18 Mar 2022 12:14:04 baseInfo.py[line:39] INFO 输入的密码为：admin
+Fri, 18 Mar 2022 12:14:10 baseInfo.py[line:48] INFO ======登录成功！！！======
+Fri, 18 Mar 2022 12:14:10 test_goods.py[line:22] INFO ======购物模块======
+Fri, 18 Mar 2022 12:14:36 test_goods.py[line:31] INFO 需要加入购物车的商品标题为：Apple iPhone 8 Plus (A1864) 256GB 深空灰色 移动联通电信4G手机
+Fri, 18 Mar 2022 12:14:41 test_goods.py[line:45] INFO 加入购物车后获取到的标题为：Apple iPhone 8 Plus (A1864) 256GB 深空灰色 移动联通电信4G手机
+Fri, 18 Mar 2022 12:14:45 test_goods.py[line:56] INFO ======加入购物车失败！！！======
+Fri, 18 Mar 2022 12:14:48 baseInfo.py[line:60] INFO ======退出浏览器======

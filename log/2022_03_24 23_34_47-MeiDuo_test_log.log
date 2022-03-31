@@ -1,0 +1,6 @@
+Thu, 24 Mar 2022 23:34:50 baseInfo.py[line:26] INFO ========登录======
+Thu, 24 Mar 2022 23:34:51 baseInfo.py[line:34] INFO 输入的用户名为：admin
+Thu, 24 Mar 2022 23:34:52 baseInfo.py[line:39] INFO 输入的密码为：admin
+Thu, 24 Mar 2022 23:34:56 baseInfo.py[line:48] INFO ======登录成功！！！======
+Thu, 24 Mar 2022 23:34:57 test_goods.py[line:22] INFO ======购物模块======
+Thu, 24 Mar 2022 23:35:05 baseInfo.py[line:60] INFO ======退出浏览器======
