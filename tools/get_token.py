@@ -44,7 +44,7 @@ class OperationHeader:
         op = OperetionJson()
         cookie_login_done = self.get_response_cookie()
         print(f"登录之后的cookie为：{cookie_login_done}")
-        cookie_login_doing = json.loads(config.LOGIN_COOKIE)
+        cookie_login_doing = json.loads(config.COOKIE_PATH)
         print(f"登录之前携带的cookie为：{cookie_login_doing}")
         values1 = cookie_login_done["session"]
         values2 = cookie_login_doing["cookie"]
