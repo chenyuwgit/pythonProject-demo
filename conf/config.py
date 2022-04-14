@@ -18,12 +18,7 @@ BASE_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))         
 TEST_EXCEL_PATH = os.path.join(BASE_PATH, "case")                                       # excel测试用例的路径
 CASE_EXCEL_PATH = os.path.join(BASE_PATH, "case", "case_excel.xls")                    # excel测试用例的指定路径
 
-# ========== 用户数据相关 ==========
-TOKEN_PATH = os.path.join(BASE_PATH, "data", "token.json")                              # 存储登录的token
-
-COOKIE_PATH = os.path.join(BASE_PATH, "data", "cookie.json")                            # 存储登录的cookie
-
-RESPONSE_PATH = os.path.join(BASE_PATH, "data", "response.conf")                        # 存储所有的接口返回值
+                     # 存储所有的接口返回值
 
 # ========== 接口请求公用数据 ==========
 BASE_URL = "http://mp-meiduo-python.itheima.net/login/"                                                      # 接口请求基地址
